@@ -1,11 +1,5 @@
 # _NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 
-![images (1) (1) (1)](https://github.com/NamiraMujawar/_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/120715329/74b111c8-4a14-4755-a227-2d4809159911)
-
-
-
-
-
 
 Netflix is a groundbreaking American subscription video on-demand streaming service, offering an extensive array of films and TV series produced by its own media company. It has a global presence, reaching audiences in multiple languages, redefining entertainment consumption and becoming an integral part of modern culture.
 
