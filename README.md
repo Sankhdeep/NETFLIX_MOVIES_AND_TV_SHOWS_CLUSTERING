@@ -1,5 +1,8 @@
 # _NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 
+![image](![image](https://github.com/Sankhdeep/Netflix_Movies_and_TV_Shows_Clustering-Unsupervised/assets/119426983/5851c025-513e-4220-9d4d-793367ecfca2)
+)
+
 
 Netflix is a groundbreaking American subscription video on-demand streaming service, offering an extensive array of films and TV series produced by its own media company. It has a global presence, reaching audiences in multiple languages, redefining entertainment consumption and becoming an integral part of modern culture.
 
