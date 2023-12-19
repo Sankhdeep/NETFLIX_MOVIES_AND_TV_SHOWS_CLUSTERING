@@ -75,4 +75,8 @@ This project analyzed Netflix's content dataset of TV shows and movies from 2019
 * TV-MA ratings dominate TV shows.
 
 
+![Capstone Project QR](https://github.com/Sankhdeep/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/119426983/dd1043fd-5813-4b55-a3d8-48539bbd55af)
+
+
+
 
